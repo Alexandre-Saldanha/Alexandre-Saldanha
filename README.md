@@ -1,5 +1,5 @@
 ### Hi! I'm Alexandre Saldanha 
-### Thanks for visiting my profile. I am very happy that you are here. I hope to help you in some way in this great world of programming!
+### Thanks for visiting my profile. I am very happy that you are here and I hope to help you in some way in this great world of programming!
 
 - 🔭 I’m currently working as an autonomous Full-Stack Java Developer
 - 🌱 I’m currently learning Javascript
