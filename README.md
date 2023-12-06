@@ -1,4 +1,4 @@
-[Read this page in Portuguese](http://exemplo.com/)
+[Read this page in Portuguese](https://github.com/Alexandre-Saldanha/Alexandre-Saldanha/blob/main/README-en.md)
 
 ### Hi! I'm Alexandre Saldanha
 Thanks for visiting my profile. I am very happy that you are here and I hope to help you in some way in this great world of programming!
