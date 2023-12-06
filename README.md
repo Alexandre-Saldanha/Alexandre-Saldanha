@@ -1,11 +1,9 @@
-### Hi! I'm Alexandre Saldanha 
+### Hi! I'm Alexandre Saldanha      [Read this page in Portuguese](http://exemplo.com/)
 Thanks for visiting my profile. I am very happy that you are here and I hope to help you in some way in this great world of programming!
 
 - 🔭 I’m currently working as a Full-Stack Java Developer
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me -> Email: contatoalexandresaldanha@gmail.com | Linkedin: https://br.linkedin.com/in/alexandre-saldanha
-
-[Read this page in Portuguese](http://exemplo.com/)
 
 <div align="center">
   <a href="https://github.com/alexandre-saldanha">
