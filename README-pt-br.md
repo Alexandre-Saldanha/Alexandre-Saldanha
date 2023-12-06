@@ -1,3 +1,5 @@
+[Read this page in English](https://github.com/Alexandre-Saldanha/Alexandre-Saldanha/blob/main/README.md)
+
 ### Olá! Eu sou Alexandre Saldanha
 
 Obrigado por visitar o meu perfil. Estou muito feliz que você esteja aqui e espero ajudá-lo de alguma forma neste grande mundo da programação!
