@@ -5,6 +5,8 @@ Thanks for visiting my profile. I am very happy that you are here and I hope to 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me -> Email: contatoalexandresaldanha@gmail.com | Linkedin: https://br.linkedin.com/in/alexandre-saldanha
 
+[Read this page in English]
+
 <div align="center">
   <a href="https://github.com/alexandre-saldanha">
 </div>
