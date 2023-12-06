@@ -4,9 +4,7 @@ Obrigado por visitar o meu perfil. Estou muito feliz que você esteja aqui e esp
 
 - 🔭 Atualmente trabalho como Desenvolvedor Java Full-Stack
 - 🌱 Atualmente estou aprendendo Javascript
-- 📫 Como entrar em contato comigo ->
-  Email: contatoalexandresaldanha@gmail.com | 
-  Linkedin: https://br.linkedin.com/in/alexandre-saldanha
+- 📫 Entre em contato comigo -> Email: contatoalexandresaldanha@gmail.com | Linkedin: https://br.linkedin.com/in/alexandre-saldanha
 
 <div align="center">
   <a href="https://github.com/alexandre-saldanha">
