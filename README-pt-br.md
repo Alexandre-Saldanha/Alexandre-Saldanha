@@ -14,6 +14,8 @@ I’m a Brazilian full-stack java developer, passionate about programming, aviat
 <div align="center">
   <a href="https://github.com/alexandre-saldanha">
 </div>
+
+---
   
 ### 🧰 Languages and Tools
 
