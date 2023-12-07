@@ -1,14 +1,17 @@
 [Read this page in English](https://github.com/Alexandre-Saldanha/Alexandre-Saldanha/blob/main/README.md)
 
+
+
 # Alexandre Saldanha
 
-**`Developer/Investor/Creator`**
+**`Desenvolvedor/Investidor/Criador`**
 
-I’m a Brazilian full-stack java developer, passionate about programming, aviation and the financial market, who will be happy to help you through good conversations and consistent code. Besides, I wrote the book “Complex Market Structures” and developed the contract calculation tool Alboncalc, for mini dollar and mini index traders in the Brazilian stock exchange B3.
+  Sou um desenvolvedor Java full-stack brasileiro, apaixonado por programação, aviação e mercado financeiro, que ficará feliz em ajudá-lo através de boas conversas e código consistente. Além disso, escrevi o livro “Estruturas de Mercado Complexas” e desenvolvi a ferramenta de cálculo de contratos Alboncalc, para traders de mini dólar e mini índice na bolsa de valores brasileira B3.
 
 <div> 
   <a href = "mailto:contatoalexandresaldanha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-saldanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.buymeacoffee.com/alexandresaldanha" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 135px !important;></a>
 </div>
 
 <div align="center">
@@ -17,7 +20,7 @@ I’m a Brazilian full-stack java developer, passionate about programming, aviat
 
 ---
   
-### 🧰 Languages and Tools
+### 🧰 Linguagens e Ferramentas
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -35,11 +38,12 @@ I’m a Brazilian full-stack java developer, passionate about programming, aviat
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Mysql" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
 <br/>
 
 #
 
 <details>
- <summary><h3>👨‍💻 Alexandre's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 A Jornada de Programação do Alexandre</h3></summary>
 
-  My journey began when I was 5 years old, when my father let me use his computer for the first time. I learned by myself how to use windows cmd and how to develop presentations with advanced animations in Powerpoint. When I grew up, I continued to improve myself in my college of Information Technology Management and I became passionate about learning how to program and how to deal with everything that involves IT management. I had my first opportunities as a developer when I was 19 years old, when I started to program for friends and family. During this period, I got to know the financial market and I was very excited, soon I learned everything about financial operations and the micro market structure, which made me realize the need to develop a specific calculator for the position sizing of the operations in the future assets and write a book with the best operational practices within my practical experience acquired over these years. Currently, I seek my professional development as a Java FullStack developer, in order to help more and more people around the world.
+  Minha jornada começou quando eu tinha 5 anos, quando meu pai me deixou usar seu computador pela primeira vez. Aprendi sozinho como usar o Windows cmd e como desenvolver apresentações com animações avançadas no Powerpoint. Quando cresci, continuei a me aprimorar na minha faculdade de Gestão de Tecnologia da Informação e me apaixonei por aprender a programar e a lidar com tudo que envolve a gestão de TI. Tive minhas primeiras oportunidades como desenvolvedor quando tinha 19 anos, quando comecei a programar para amigos e familiares. Durante esse tempo, conheci o mercado financeiro e fiquei muito empolgado, logo aprendi tudo sobre negociação financeira e a microestrutura do mercado, o que me fez perceber a necessidade de desenvolver uma calculadora específica para o dimensionamento da posição de negociação nos ativos futuros e escrever um livro com as melhores práticas operacionais dentro da minha experiência prática adquirida ao longo desses anos. Atualmente, busco meu desenvolvimento profissional como desenvolvedor Java FullStack, a fim de ajudar cada vez mais pessoas ao redor do mundo.
