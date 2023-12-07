@@ -1,12 +1,12 @@
 [Read this page in English](https://github.com/Alexandre-Saldanha/Alexandre-Saldanha/blob/main/README.md)
 
-### Olá! Eu sou Alexandre Saldanha
+# Alexandre Saldanha
 
-Obrigado por visitar o meu perfil. Estou muito feliz que você esteja aqui e espero ajudá-lo de alguma forma neste grande mundo da programação!
+**`Developer/Investor/Creator`**
 
-- 🔭 Atualmente trabalho como Desenvolvedor Java Full-Stack
-- 🌱 Atualmente estou aprendendo Javascript
-- 📫 Entre em contato comigo -> Email: contatoalexandresaldanha@gmail.com | Linkedin: https://br.linkedin.com/in/alexandre-saldanha
+I'm a brazilian full-stack developer, investor in stock market and content creator building my version of the digital world one step at a time. I'm solving real-life problems with code everyday. I'll be happy if I could help you in some way in this great world of programming!
+
+- 📫 How to reach me: contatoalexandresaldanha@gmail.com | https://br.linkedin.com/in/alexandre-saldanha
 
 <div align="center">
   <a href="https://github.com/alexandre-saldanha">
