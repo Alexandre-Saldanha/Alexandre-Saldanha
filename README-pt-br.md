@@ -6,7 +6,7 @@
 
 **`Desenvolvedor/Investidor/Criador`**
 
-  Sou um desenvolvedor Java full-stack brasileiro, apaixonado por programação, aviação e mercado financeiro, que ficará feliz em ajudá-lo através de boas conversas e código consistente. Além disso, escrevi o livro “Estruturas de Mercado Complexas” e desenvolvi a ferramenta de cálculo de contratos Alboncalc, para traders de mini dólar e mini índice na bolsa de valores brasileira B3.
+  Sou um desenvolvedor Java full-stack brasileiro, apaixonado por programação, aviação e mercado financeiro, que ficará feliz em ajudá-lo através de boas conversas e código consistente. Além disso, escrevi o livro “Estruturas Complexas do Mercado” e desenvolvi a ferramenta de cálculo de contratos Alboncalc, para operadores de mini dólar e mini índice na bolsa de valores brasileira B3.
 
 <div> 
   <a href = "mailto:contatoalexandresaldanha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
