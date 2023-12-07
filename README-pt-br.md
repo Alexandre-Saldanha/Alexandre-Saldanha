@@ -28,6 +28,10 @@ I’m a Brazilian full-stack java developer, passionate about programming, aviat
 
 <img align="left" alt="Aws" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+
+<img align="left" alt="Aws" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
           
           
 <br />
