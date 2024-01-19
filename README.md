@@ -4,7 +4,7 @@
 
 **`Developer/Investor/Creator`**
 
-I’m a Brazilian Full-Stack Java developer, passionate about programming, aviation and the financial market, who will be happy to help you through good conversations and consistent code. Besides, I wrote the book “Complex Market Structures” and developed the contract calculation tool Alboncalc, for mini dollar and mini index traders in the Brazilian stock exchange B3.
+I’m a Brazilian Full-Stack Java developer, passionate about programming, aviation and the financial market. I will be happy to help you with good conversations and consistent code. I also wrote the book “Complex Market Structures” and developed the contract calculation tool Alboncalc, for mini dollar and mini index assets of the Brazilian stock exchange B3.
 
 <div> 
   <a href = "mailto:contatoalexandresaldanha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
