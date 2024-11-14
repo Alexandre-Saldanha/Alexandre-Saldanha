@@ -8,7 +8,12 @@ I’m a Brazilian Full-Stack Java Developer, passionate about programming, aviat
 
 <div> 
   <a href = "mailto:contatoalexandresaldanha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandre-saldanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alexandre-saldanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.tradingview.com/u/Alexandre_Saldanha_/" target="_blank">
+  <img src="https://img.shields.io/badge/-TradingView-%23333333?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView Profile">
+</a>
+
+
 </div>
 
 <div align="center">
